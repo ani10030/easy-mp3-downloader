@@ -10,7 +10,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 def title():
 	print('')
-	print('		-------- ADVANCED MP3 DOWNLOADER --------')
+	print('		-------- EASY MP3 DOWNLOADER --------')
 	print('')
 	print('')
 
@@ -246,8 +246,8 @@ class English():
 
 def function_exit():
 	print('')
-	print('	-----------------------------------------------')
-	print('	Thankyou for choosing ADVANCED MP3 DOWNLOADER !')
+	print('	-------------------------------------------')
+	print('	Thankyou for choosing EASY MP3 DOWNLOADER !')
 	print('')
 	print('	Fork Me @ GITHUB => Anirudh Sethi - https://github.com/ani10030/')
 	print('	----------------------------------------------------------------')
